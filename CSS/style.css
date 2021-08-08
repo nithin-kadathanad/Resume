@@ -121,17 +121,28 @@ a:hover{
 }
 .Skills-Tool-Table{
   margin: auto;
-  width: 50%;
+  width: 70%;
 }
 .Skills-Tool-Table-row{
   text-align: left;
 }
 .Skills-Tool-Table-row-left-rating{
-  text-align: center;
+  text-align: right;
+  width: 10%;
 }
 
 .Skills-Tool-Table-row-right-rating{
-  text-align: center;
+  text-align: right;
+  width: 10%;
+}
+.Skills-Tool-Table-row-right{
+
+  padding-left: 5%;
+  width: 25%;
+}
+.Skills-Tool-Table-row-left{
+padding-left: 10%;
+  width: 25%;
 }
 .Achievement{
   margin: auto;
