@@ -29,6 +29,10 @@ h3{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
 }
+p{
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
 .company{
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
@@ -89,10 +93,17 @@ a:hover{
   width: 50%;
   margin: auto;
 }
+.Experience{
+  height: 50%;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
 .Experience-row{
   width: 70%;
-  margin: auto;
-  margin: 50px auto;
+  /*margin: auto;*/
+  padding: 0% 10%;
+   margin: 5% 0px;
 }
 .work-img{
   width: 5%;
@@ -104,6 +115,9 @@ a:hover{
 .company-img{
   width: 20%;
   float: left;
+}
+.Achievement{
+  margin: auto;
 }
 .Achievement-img{
   width: 5%;
@@ -117,6 +131,8 @@ a:hover{
 }
 .Education-Attribute-table{
   margin: auto;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .Education-Table-box{
