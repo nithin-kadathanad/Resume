@@ -116,6 +116,15 @@ a:hover{
   width: 20%;
   float: left;
 }
+.company-Role{
+  text-align: left;
+  width: 70%;
+}
+
+.company-Duration{
+  text-align: right;
+  width: 30%;
+}
 .Skills-Tool-img{
   width: 15%;
 }
@@ -129,22 +138,22 @@ a:hover{
 .Skills-Tool-Table-row-left-rating{
   text-align: right;
   width: 10%;
-  padding-right: 5%;
+  padding-right: 2%;
 }
 
 .Skills-Tool-Table-row-right-rating{
   text-align: right;
   width: 10%;
-  padding-right: 5%;
+  padding-right: 2%;
 }
 .Skills-Tool-Table-row-right{
 
-  padding-left: 5%;
-  width: 25%;
+  padding-left: 2%;
+  width: 20%;
 }
 .Skills-Tool-Table-row-left{
-padding-left: 5%;
-  width: 25%;
+padding-left: 2%;
+  width: 20%;
 }
 .Achievement{
   margin: auto;
