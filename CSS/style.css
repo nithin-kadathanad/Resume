@@ -129,11 +129,13 @@ a:hover{
 .Skills-Tool-Table-row-left-rating{
   text-align: right;
   width: 10%;
+  padding-right: 5%;
 }
 
 .Skills-Tool-Table-row-right-rating{
   text-align: right;
   width: 10%;
+  padding-right: 5%;
 }
 .Skills-Tool-Table-row-right{
 
@@ -141,7 +143,7 @@ a:hover{
   width: 25%;
 }
 .Skills-Tool-Table-row-left{
-padding-left: 10%;
+padding-left: 5%;
   width: 25%;
 }
 .Achievement{
