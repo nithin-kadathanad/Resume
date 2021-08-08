@@ -116,6 +116,23 @@ a:hover{
   width: 20%;
   float: left;
 }
+.Skills-Tool-img{
+  width: 15%;
+}
+.Skills-Tool-Table{
+  margin: auto;
+  width: 50%;
+}
+.Skills-Tool-Table-row{
+  text-align: left;
+}
+.Skills-Tool-Table-row-left-rating{
+  text-align: center;
+}
+
+.Skills-Tool-Table-row-right-rating{
+  text-align: center;
+}
 .Achievement{
   margin: auto;
 }
